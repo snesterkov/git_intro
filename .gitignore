@@ -1,6 +1,6 @@
-ignore_me.txt          # Игнорировать файл 
-app/ignored/           # Игнорировать папку  
+ignore_me.txt          # Игнорировать файл
+app/ignored/           # Игнорировать папку
 *.py[cdo]              # Игнорировать все файлы с расширением pyc/pyd/pyo
-app/**/*.log           # Игнорировать log-файлы в app- и поддиректориях 
-!app/main.log          # ... кроме файла main.log 
+app/**/*.log           # Игнорировать log-файлы в app- и поддиректориях
+!app/main.log          # ... кроме файла main.log
 test
